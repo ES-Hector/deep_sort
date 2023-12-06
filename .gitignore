@@ -79,7 +79,7 @@ celerybeat-schedule
 .env
 
 # virtualenv
-venv/
+.venv/
 ENV/
 
 # Spyder project settings
@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Data
+MOT16/
+
+# Weights
+resources/
